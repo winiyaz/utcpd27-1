@@ -10,6 +10,7 @@
 [PyQt](https://doc.qt.io/qtforpython-6/)
 - After doing some smellpanty reserach this is the very common cross platform framework
 - Different from tkinter ( which is part of python standard lib , and still useful for simple applications )
+- Note requires additional installation of pkgs in windows, maybe thats why you havent come across mention of this. 
 
 ## [`Textualize`](https://www.textualize.io/)
 
