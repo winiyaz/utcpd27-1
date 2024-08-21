@@ -5,4 +5,7 @@
 ![](./lay.svg)
 
 Final program should look like this
-p
+
+## Completed App
+
+![](./app.gif)
