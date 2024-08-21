@@ -8,4 +8,8 @@
 
 <img src="https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2023/01/coordinate_plane.png?fit=499%2C499&ssl=1" width="20%">
 
-1. Place by defining on x and y axis 
+1. Place by defining on x and y axis
+
+## Grid 
+
+1. Divides the layout into a grid
