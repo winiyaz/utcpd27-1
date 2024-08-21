@@ -5,6 +5,11 @@
 
 # Modern Cross Platform GUI 
 
+### Tkinter 
+
+1. This is from python standard lib note additional installs might not be required
+2. Consider what is the use case for this 
+
 ## PuQt - Cross Platform GUI
 
 [PyQt](https://doc.qt.io/qtforpython-6/)
@@ -17,4 +22,9 @@
 1. This is referring to a CLI framework for the application not GUI
 2. [`Textualize``](https://www.textualize.io/) is the most used TUI generator. Note the RICH pythion package is also made by these guys 
 
+## [`StreamLIT`](https://streamlit.io/) 
+
+1. For building data apps 
+2. You can also host it on steamlit cloud which is linked to this
+3. Note need to find out how to make that run in pycharm
 
