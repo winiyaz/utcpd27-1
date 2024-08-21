@@ -37,4 +37,4 @@
 
 1. Main project is under [`w212`](./w212)
 
-![](./w212/app.gif)
+![](./w212/v2.gif)
