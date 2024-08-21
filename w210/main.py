@@ -25,7 +25,8 @@ bu1.pack()
 
 # -- Text Entry
 input1 = Entry(width=50, font=('Arial', 20), justify="center")
-input1.pack(pady=10)
+input1.place(x=0, y=100)
+# input1.pack(pady=10)
 
 # -- default loop
 window.mainloop()
